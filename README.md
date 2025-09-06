@@ -1,2 +1,3 @@
-# info2180-lab1
-lab 1 of the course "INFO2180 - Dynamic Web Development 1"
+# INFO2180 Lab 1
+
+This is Labe 1 for Shevaunie Senior
